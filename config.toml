@@ -3,3 +3,8 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
 publishdir = "./docs"
+
+[params]
+title = "I'm Lihuan"
+author = "lihuan"
+profilePicture = "images/profile.jpeg"
